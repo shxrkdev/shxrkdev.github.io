@@ -1,0 +1,6 @@
+[submodule "tools"]
+	path = tools
+	url = https://github.com/shxrklol/tools.git
+[submodule "projects"]
+	path = projects
+	url = https://github.com/shxrklol/projects.git
