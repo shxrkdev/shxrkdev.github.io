@@ -2,7 +2,7 @@
 - reminder, only use 'git add submodule https://li.nk' when adding submodules, no manual stuffs
 
 ## todo:
-
+- nothing (as of right now) !!
 
 ## in progress | status
 
