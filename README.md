@@ -3,13 +3,13 @@
 
 ## todo:
 - nothing (as of right now) !!
-- why is it not working help
+  
 ## in progress | status
 
 ## finished:
 - add cool tools
 - added changelog
-- move all website related repos to another account (shxrkdev) | have the main repo, waiting till im home
+- move all website related repos to another account (shxrkdev)
 - rebase on https://github.com/shxrkdev/shxrkdev.github.io
 - re-build submodules cause i broke them
 
