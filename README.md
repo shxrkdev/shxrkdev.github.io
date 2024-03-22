@@ -13,7 +13,4 @@
 - rebase on https://github.com/shxrkdev/shxrkdev.github.io
 - re-build submodules cause i broke them
 
-## scrapped:
-- move to another provider [use pi's to run?]
-- make it more fancy (npm, express, etc)
-- re-build it completely for v3 [?] - if i'm not lazy
+look in commit hist for scrappd stuffs
