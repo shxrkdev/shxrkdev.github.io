@@ -28,3 +28,21 @@
 - rewrite / organize
 - optimize
 - moved the github repo to another account (shxrklol -> shxrkdev)
+
+## v2.3.1
+- added extra css colors
+- fixed socials
+- fixed discord
+- planning for v3
+
+## v3-beta-1
+- newest version
+- using vercel to deploy
+- use html -> astro
+- use javascript -> typescript
+- use css -> sass
+- completely redo main page
+- /tools and /projects have NOT been redone for v3
+- keep submodules
+- fixed disord
+- fixed socials
