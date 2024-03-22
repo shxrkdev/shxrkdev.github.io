@@ -1,4 +1,8 @@
-# CHANGELOG.md
+<div align="center">
+  <h1>
+    CHANGELOG.md
+  </h1>
+</div>
 
 ## v2.0.0
 - release new site
